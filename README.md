@@ -12,8 +12,6 @@
 
 ## About Me
 
-## About Me
-
 Full Stack Developer with hands-on experience designing and building **production-ready web applications** from the ground up. Specialized in crafting clean, responsive frontends and robust, scalable backend systems.
 
 I focus on writing **clean, maintainable code** and delivering seamless user experiences — from pixel-perfect UI to well-structured APIs. As a **freelance developer**, I have worked with clients across different industries, turning ideas into fully functional digital products.
@@ -80,5 +78,6 @@ I'm open to collaboration on **DeFi protocols**, **smart contract security**, an
 <sub>Building on-chain, one block at a time.</sub>
 
 </div>
+
 
 

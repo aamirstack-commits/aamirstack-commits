@@ -12,20 +12,23 @@
 
 ## About Me
 
-Senior Blockchain Engineer with **7+ years** of hands-on experience designing, building, and operating **production-grade blockchain systems**. Specialized in secure smart contracts, DeFi protocols, and cross-chain architecture across EVM and non-EVM networks.
+## About Me
 
-I focus on **security-first smart contract development** and reliable blockchain infrastructure. I have led and contributed to cross-chain DeFi platforms — including systems that processed **seven figure on-chain volume** with high availability and zero critical post-launch incidents.
+Full Stack Developer with hands-on experience designing and building **production-ready web applications** from the ground up. Specialized in crafting clean, responsive frontends and robust, scalable backend systems.
 
-My experience spans protocol design, audits, optimization, testing, and production operations.
+I focus on writing **clean, maintainable code** and delivering seamless user experiences — from pixel-perfect UI to well-structured APIs. As a **freelance developer**, I have worked with clients across different industries, turning ideas into fully functional digital products.
+
+My experience spans the full development lifecycle — from layout and design to server-side logic and deployment.
 
 ---
 
 ## Selected Impact & Experience
 
-- Contributed to systems securing **$180M+** in on-chain value using multi-signature wallets, role-based access control, and hardened deployment practices
-- Led smart contract optimization initiatives resulting in a **25% gas reduction** on core execution paths
-- Delivered production contracts with **extensive automated test coverage** for financial and permissioned logic
-- Built and maintained blockchain platforms supporting **high-volume NFT minting and DeFi interactions**
+- Built and delivered **multiple full stack web projects** using React, Node.js, and modern web technologies
+- Developed responsive, mobile-friendly frontends using **HTML, CSS, and JavaScript** with clean UI/UX practices
+- Designed and integrated **RESTful APIs** with Node.js backends connected to real databases
+- Worked as a **freelance developer**, collaborating with clients to turn their ideas into fully functional web applications
+- Continuously building and expanding skills through *
 
 ---
 
@@ -34,7 +37,7 @@ My experience spans protocol design, audits, optimization, testing, and producti
 `Html` `Javascript` `Css` `Ract.js` `Express,js` `Node.js`
 
 **Infrastructure & Tooling**
-`Github` `Git` `GCP` `Linux` `IPFS` `CI/CD`
+`Github` `Git` `VsCode` `Vercel` `Netlify` `Mongodb` `MySQL` `npm/yarn` `Terminal/Command` `RestAPIs` `JSOn`
 
 ---
 
@@ -52,11 +55,11 @@ My experience spans protocol design, audits, optimization, testing, and producti
 
 <div align="center">
 
-![Sohail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohailblockchain&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Aamir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aamirstack-commit&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sohailblockchain&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aamirstack-commit&layout=compact&theme=default&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sohailblockchain&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=aamirstack-commit&theme=default&hide_border=true)
 
 </div>
 
@@ -66,10 +69,10 @@ My experience spans protocol design, audits, optimization, testing, and producti
 
 I'm open to collaboration on **DeFi protocols**, **smart contract security**, and **blockchain infrastructure**.
 
-- 🌐 Portfolio: [blockchain-portfolio-js.vercel.app](https://blockchain-portfolio-js.vercel.app)
-- 💼 LinkedIn: [linkedin.com/in/sohail-ahmed-0d0b6215](https://linkedin.com/in/sohail-ahmed-0d0b6215)
-- 📧 Email: sohailahmed.0d0b6215@gmail.com
-- 🐦 Twitter: [@sohailblockchain](https://twitter.com/sohailblockchain)
+- 🌐 Portfolio: [https://my-first-html-portfolio.vercel.app/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/aamir-stack-0324733a9/)
+- 📧 Email: aamir.stack@gmail.com
+- 🐦 Upwork: [https://www.upwork.com/freelancers/~01e73929e87fe3f416)
 
 ---
 
@@ -77,4 +80,5 @@ I'm open to collaboration on **DeFi protocols**, **smart contract security**, an
 <sub>Building on-chain, one block at a time.</sub>
 
 </div>
+
 

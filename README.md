@@ -5,9 +5,6 @@
 
 *I am an enthusiastic and driven Full Stack Web Development course at Mehran University of Engineering and Technology. Passionate about Backend and Frontend Development with a strong focus on building practical, real-world solutions. Experienced with scalable APIs, databases, and server-side technologies, and eager to design reliable, efficient systems that solve meaningful problems*
 
-[![LinkedIn](https://www.linkedin.com/in/aamir-stack-0324733a9/)
-[![Portfolio](https://my-first-html-portfolio.vercel.app/)
-[![Uppwork](https://www.upwork.com/freelancers/~01e73929e87fe3f416)
 
 </div>
 
@@ -78,4 +75,5 @@ I'm open to collaboration on **DeFi protocols**, **smart contract security**, an
 
 <div align="center">
 <sub>Building on-chain, one block at a time.</sub>
+
 </div>

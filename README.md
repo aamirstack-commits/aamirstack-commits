@@ -1,4 +1,4 @@
-<div align="center">
+<div >
 
 # Aamir Stack
 ### Full Stack Developer | Specialized in Mern Stack | Building scalable web application
@@ -77,3 +77,4 @@ I'm open to collaboration on **DeFi protocols**, **smart contract security**, an
 <sub>Building on-chain, one block at a time.</sub>
 
 </div>
+

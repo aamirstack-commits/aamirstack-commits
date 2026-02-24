@@ -49,20 +49,6 @@ My experience spans the full development lifecycle — from layout and design to
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Aamir's GitHub Stats](https://github.com/aamirstack-commits)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aamirstack-commit&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aamirstack-commit&theme=default&hide_border=true)
-
-</div>
-
----
-
 ## Connect
 
 I'm open to collaboration on **DeFi protocols**, **smart contract security**, and **blockchain infrastructure**.
@@ -78,6 +64,7 @@ I'm open to collaboration on **DeFi protocols**, **smart contract security**, an
 <sub>Building on-chain, one block at a time.</sub>
 
 </div>
+
 
 
 

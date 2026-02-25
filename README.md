@@ -45,11 +45,8 @@
 
 ### 📊 GitHub Stats
 
-![Aamir's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamirstack-commits&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aamirstack-commits&theme=radical&hide_border=true&background=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aamirstack-commits&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 ---
 
@@ -128,6 +125,7 @@ Feel free to reach out if you'd like to collaborate on exciting projects! 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aamirstack-commits&color=blueviolet&style=flat-square&label=Profile+Views)
 ```
+
 
 
 

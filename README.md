@@ -1,6 +1,6 @@
 # Hi there, I'm Aamir Stack 👋
 
-<h6>Frontend Developer | HTML5, CSS3 and JavaScript Specialist | Building Beautiful Web Interfaces</h6>
+<h4>Frontend Developer | HTML5, CSS3 and JavaScript Specialist | Building Beautiful Web Interfaces</h4>
 
 <p>I'm passionate about creating responsive, user-friendly web applications that provide exceptional user experiences. I recently completed my Web Development course at Mehran University of Engineering and Technology, where I specialized in modern frontend technologies.</p>
 ---
@@ -151,4 +151,5 @@ Feel free to reach out if you'd like to collaborate on exciting projects! 🚀
 #### **Any Other Project:**
 ```
 ⚛️ [Project Name] - [Brief description] | Tech Stack: React.js, Tailwind CSS, JavaScript | Features: Responsive design, Component architecture, API integration
+
 

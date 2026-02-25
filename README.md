@@ -1,4 +1,4 @@
-# Hi there, I'm Aamir Stack 👋
+# Aamir
 
 <h4>Frontend Developer | HTML5, CSS3 and JavaScript Specialist | Building Beautiful Web Interfaces</h4>
 
@@ -128,6 +128,7 @@ Feel free to reach out if you'd like to collaborate on exciting projects! 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aamirstack-commits&color=blueviolet&style=flat-square&label=Profile+Views)
 ```
+
 
 
 

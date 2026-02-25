@@ -1,8 +1,8 @@
-# Hi there, I'm Aamir 👋
+# Hi there, I'm Aamir Stack 👋
 
-## Frontend Developer | html5 Css and Javascript Specialist | Building Beautiful Web Interfaces
+<h6>Frontend Developer | HTML5, CSS3 and JavaScript Specialist | Building Beautiful Web Interfaces</h6>
 
-I'm passionate about creating responsive, user-friendly web applications that provide exceptional user experiences. I recently completed my Web Development course at Mehran University of Engineering and Technology, where I specialized in modern frontend technologies.
+<p>I'm passionate about creating responsive, user-friendly web applications that provide exceptional user experiences. I recently completed my Web Development course at Mehran University of Engineering and Technology, where I specialized in modern frontend technologies.</p>
 ---
 
 ### 🚀 What I'm Currently Working On
@@ -87,7 +87,7 @@ Learning and building various react applications to enhance my frontend skills
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aamir-stack-032473349)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-first-html-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aamir-stack@example.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aamirstack-commits)
 
 ---
 
@@ -103,7 +103,7 @@ Learning and building various react applications to enhance my frontend skills
 
 ### 📈 Activity Graph
 
-[![Aamir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)](https://github.com/yourusername)
+[![Aamir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aamirstack-commits&theme=react-dark&hide_border=true)](https://github.com/yourusername)
 
 ---
 
@@ -121,7 +121,7 @@ Feel free to reach out if you'd like to collaborate on exciting projects! 🚀
 
 ### 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![Trophy](https://github-profile-trophy.vercel.app/?username=aamirstack-commits&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
@@ -131,7 +131,7 @@ Feel free to reach out if you'd like to collaborate on exciting projects! 🚀
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=aamirstack-commits&color=blueviolet&style=flat-square&label=Profile+Views)
 ```
 
 ---
@@ -151,3 +151,4 @@ Feel free to reach out if you'd like to collaborate on exciting projects! 🚀
 #### **Any Other Project:**
 ```
 ⚛️ [Project Name] - [Brief description] | Tech Stack: React.js, Tailwind CSS, JavaScript | Features: Responsive design, Component architecture, API integration
+

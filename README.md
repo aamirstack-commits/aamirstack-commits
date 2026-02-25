@@ -3,6 +3,7 @@
 <h4>Frontend Developer | HTML5, CSS3 and JavaScript Specialist | Building Beautiful Web Interfaces</h4>
 
 <p>I'm passionate about creating responsive, user-friendly web applications that provide exceptional user experiences. I recently completed my Web Development course at Mehran University of Engineering and Technology, where I specialized in modern frontend technologies.</p>
+
 ---
 
 ### 🚀 What I'm Currently Working On
@@ -119,12 +120,6 @@ Feel free to reach out if you'd like to collaborate on exciting projects! 🚀
 
 ---
 
-### 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=aamirstack-commits&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-
 **⭐ Thanks for visiting! Feel free to check out my repositories and star the ones you find interesting!**
 
 💙 Let's build something amazing together!
@@ -134,22 +129,7 @@ Feel free to reach out if you'd like to collaborate on exciting projects! 🚀
 ![Profile Views](https://komarev.com/ghpvc/?username=aamirstack-commits&color=blueviolet&style=flat-square&label=Profile+Views)
 ```
 
----
 
-### **7. Repository Descriptions (Update existing repos)**
 
-#### **Entertainment Website:**
-```
-🎬 Modern, fully responsive entertainment website built with HTML, CSS, and JavaScript | Features: Smooth animations, Mobile-first design, Optimized performance | Live Demo ↗
-```
-
-#### **Portfolio Website:**
-```
-💼 Personal portfolio website showcasing frontend development projects | Built with HTML5, CSS3, and JavaScript | Clean design with modern UI/UX patterns | Live Demo ↗
-```
-
-#### **Any Other Project:**
-```
-⚛️ [Project Name] - [Brief description] | Tech Stack: React.js, Tailwind CSS, JavaScript | Features: Responsive design, Component architecture, API integration
 
 

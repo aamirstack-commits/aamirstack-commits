@@ -124,11 +124,3 @@ Feel free to reach out if you'd like to collaborate on exciting projects! 🚀
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aamirstack-commits&color=blueviolet&style=flat-square&label=Profile+Views)
-```
-
-
-
-
-
-
-

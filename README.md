@@ -59,7 +59,7 @@ A modern, fully responsive entertainment website with smooth animations
 
 #### 💼 [Portfolio Website](https://my-first-html-portfolio.vercel.app/)
 Personal portfolio showcasing frontend development projects
-- **Tech:** HTML5, CSS3, JavaScript
+- **Tech:** HTML5, Responsive Design
 - **Features:** Clean design, Project showcase, Contact section
 
 #### ⚛️ More Projects
@@ -124,3 +124,4 @@ Feel free to reach out if you'd like to collaborate on exciting projects! 🚀
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aamirstack-commits&color=blueviolet&style=flat-square&label=Profile+Views)
+

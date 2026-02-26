@@ -92,8 +92,9 @@ Building modern web applications with React.js and Next.js, focusing on performa
 - **LinkedIn:** [linkedin.com/in/aamir-stack-032473349](https://www.linkedin.com/in/aamir-stack-032473349)
 - **Portfolio:** [my-first-html-portfolio.vercel.app](https://my-first-html-portfolio.vercel.app/)
 - **GitHub:** [github.com/aamirstack-commits](https://github.com/aamirstack-commits)
-- **Email:** your-email@gmail.com
+- **Email:** aamir.stack@gmail.com
 
 ---
 
 Open to collaboration on exciting frontend projects, innovative startups, and meaningful open-source contributions. Always eager to connect with fellow developers and explore new opportunities in frontend development.
+
